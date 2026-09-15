@@ -62,7 +62,7 @@ I created a separate `style.css` file and connected it to my HTML file. I used C
 
 ### Screenshot
 
-![CSS Styling](screenshot5.png)
+![CSS Styling](screenshot.png)
 
 
 ## Part 6 — Footer
@@ -71,7 +71,7 @@ I added a footer section to the webpage.
 
 ### Screenshot
 
-![Footer](screenshot6.png)
+![Footer](screenshot5.png)
 
 
 ## Brief Summary of My Work Process
