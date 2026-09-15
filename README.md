@@ -2,23 +2,13 @@
 
 ## 1. Objective
 
-The objective of this project is to create a personal webpage using HTML and CSS. The webpage provides basic information about me, my hobbies, favourite websites, university subjects, and a simple form.
-
+The objective of this project is to create a personal webpage using HTML and CSS. My website has basic information about me, my hobbies, favourite websites, my university schedule, simple forms.
 ## 2. Technologies Used
 
 * HTML5
 * CSS3
 
 ## 3. Steps Taken
-
-# Web Technologies Assignment
-
-## Student Information
-
-**Name:** Akmarzhan Nurtas
-**Group:** SE-2538
-
----
 
 ## Part 1 — Personal Information
 
@@ -31,7 +21,7 @@ I created a personal webpage with my name, group, age, hometown, and information
 
 ## Part 2 — Photo, Hobbies and Favourite Websites
 
-I added my personal photo, a list of my hobbies, and a list of my favourite websites. I also added links to YouTube and Instagram.
+I added personal photo of myself, list of hobbies and websites, also i added link of Youtube and Instagram as example of websites i like.
 
 ### Screenshot
 
@@ -98,10 +88,10 @@ The webpage contains the following sections:
 
 ## 6. Final Reflection
 
-While working on this project, I learned how to create a basic webpage using HTML and CSS. I learned how to use headings, paragraphs, images, links, lists, tables, forms, divs, and footers.
+While working on this project I discovered how to build a webpage using HTML and CSS. I learned how to use headings, paragraphs, images, links, lists, tables, forms, divs and footers.
 
-I also learned how to connect an HTML file with a CSS file and use CSS properties such as colors, borders, padding, margins, and positioning.
+I also learned how to link an HTML file with a CSS file and apply CSS properties like colours, borders, padding, margins and positioning.
 
-One of the challenges was understanding how to correctly position elements and fix CSS errors. However, working on this project helped me understand the basic structure of a webpage better and gave me more practice with HTML and CSS.
+One of the difficulties was figuring out how to place elements and fix CSS mistakes. However working on this project helped me understand the layout of a webpage better and gave me more experience, with HTML and CSS.
 
-Overall, I enjoyed creating my personal webpage and learned useful skills that I can use in future web development projects.
+Overall I had fun creating my webpage and picked up important skills that I can use in future web development projects.
