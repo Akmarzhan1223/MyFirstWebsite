@@ -2,96 +2,108 @@
 
 ## 1. Objective
 
-The objective of this project is to create a personal webpage using HTML and CSS. My website has basic information about me, my hobbies, favourite websites, my university schedule, simple forms.
+The objective of this project is to create a webpage using HTML and CSS. My website includes information about me my hobbies, favourite websites, my university schedule and simple forms.
+
 ## 2. Technologies Used
 
 * HTML5
+
 * CSS3
 
 ## 3. Steps Taken
 
-## Part 1 — Personal Information
+### Part 1. Personal Information
 
-I created a personal webpage with my name, group, age, hometown, and information about my university.
+I created a webpage with my name, student group, age, hometown and details about my university.
 
 ### Screenshot
 
 ![Personal Information](screenshot1.png)
 
+---
 
-## Part 2 — Photo, Hobbies and Favourite Websites
+### Part 2. Photo, Hobbies and Favourite Websites
 
-I added personal photo of myself, list of hobbies and websites, also i added link of Youtube and Instagram as example of websites i like.
+I added a photo of myself a list of my hobbies and a list of favourite websites. I also included links to YouTube and Instagram as examples of websites I enjoy.
 
 ### Screenshot
 
 ![Photo, Hobbies and Favourite Websites](screenshot2.png)
 
+---
 
-## Part 3 — University Schedule
+### Part 3. University Schedule
 
-I created an HTML table containing my university subjects, class days, and class times. I used CSS to add borders and spacing to the table.
+I created an HTML table that shows my university subjects, class days and class times. I used CSS to add borders and spacing to the table for readability.
 
 ### Screenshot
 
 ![University Schedule](screenshot3.png)
 
+---
 
-## Part 4 — Form
+### Part 4. Form
 
-I created a simple form with fields for name, email, and favourite colour. I also added a submit button.
+I designed a form with input fields for name, email and favourite colour. I also added a submit button to complete the form.
 
 ### Screenshot
 
 ![Form](screenshot4.png)
 
+---
 
-## Part 5 — CSS Styling
+### Part 5. CSS Styling
 
-I created a separate `style.css` file and connected it to my HTML file. I used CSS to change the background colours, fonts, borders, spacing, and layout of the webpage.
+I created a style.css` file and linked it to my HTML file. I used CSS to change the background colours, fonts, borders, spacing and overall layout of the webpage.
 
 ### Screenshot
 
 ![CSS Styling](screenshot.png)
 
+---
 
-## Part 6 — Footer
+### Part 6. Footer
 
-I added a footer section to the webpage.
+I added a section at the bottom of the webpage.
 
 ### Screenshot
 
 ![Footer](screenshot5.png)
 
+---
 
 ## Brief Summary of My Work Process
 
-First, I created the basic structure of the webpage using HTML. Then, I added different sections such as personal information, an image, hobbies, favourite websites, a university schedule, and a form.
+I started by building the structure of the webpage using HTML. Then I added sections like personal information, a photo, hobbies, favourite websites, a university schedule and a contact form.
 
-After that, I created a separate CSS file and connected it to the HTML file. I used CSS to style the webpage, including colours, borders, fonts, spacing, and positioning.
+After that I created a CSS file and connected it to the HTML file. I used CSS to style the page—changing colours adding borders adjusting fonts controlling spacing and organizing the layout.
 
-During the process, I fixed several HTML and CSS errors and adjusted the layout of the elements. Finally, I added screenshots of the completed parts and prepared this README file to document my work.
-
+During the process I. Fixed several HTML and CSS errors. I also adjusted the positioning of elements to make everything look neat and balanced. Finally I added screenshots of each completed section. Wrote this README file to document my work.
 
 ## 4. Webpage Sections
 
-The webpage contains the following sections:
+The webpage includes the following sections:
 
 * Header with my name and student group
-* About Me
-* My Hobbies
-* My Favourite Websites
-* University Schedule
-* Contact Form
-* Footer
 
+* About Me
+
+* My Hobbies
+
+* My Favourite Websites
+
+* University Schedule
+
+* Contact Form
+
+* Footer
 
 ## 6. Final Reflection
 
-While working on this project I discovered how to build a webpage using HTML and CSS. I learned how to use headings, paragraphs, images, links, lists, tables, forms, divs and footers.
+Working on this project helped me learn how to build a webpage using HTML and CSS. I learned how to use headings, paragraphs, images, links, lists, tables, forms, divs and footers.
 
-I also learned how to link an HTML file with a CSS file and apply CSS properties like colours, borders, padding, margins and positioning.
+I also learned how to link an HTML file to a CSS file and apply CSS properties like background colours, borders, padding, margins and positioning.
 
-One of the difficulties was figuring out how to place elements and fix CSS mistakes. However working on this project helped me understand the layout of a webpage better and gave me more experience, with HTML and CSS.
+One of the parts was figuring out how to place elements correctly and fixing CSS mistakes.. Going through these challenges helped me understand how a webpage is structured and improved my skills, in HTML and CSS.
 
-Overall I had fun creating my webpage and picked up important skills that I can use in future web development projects.
+Overall I enjoyed creating my webpage. I gained knowledge and skills that I can use in future web development projects.
