@@ -54,7 +54,7 @@ I designed a form with input fields for name, email and favourite colour. I also
 
 ### Part 5. CSS Styling
 
-I created a style.css` file and linked it to my HTML file. I used CSS to change the background colours, fonts, borders, spacing and overall layout of the webpage.
+I created a style.css file and linked it to my HTML file. I used CSS to change the background colours, fonts, borders, spacing and overall layout of the webpage.
 
 ### Screenshot
 
